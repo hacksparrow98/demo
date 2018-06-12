@@ -10,5 +10,11 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "socialProfiles":[
+  {"typeName" : "username1", "id": "userid1", "url": "userurl1"},
+ {"typeName" : "username2", "id": "userid2", "url": "userurl2"},
+ {"typeName" : "username3", "id": "userid3", "url": "userurl3"},
+ {"typeName" : "username4", "id": "userid4", "url": "userurl4"}]
+ 
 }
